@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218840205963",
+    "project_id": "realtimedatabase-61dca",
+    "storage_bucket": "realtimedatabase-61dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218840205963:android:775efd672d7631cd92a28e",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCzm63KEgojpk10Olo8W9_4ud_ZnQZ06A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
